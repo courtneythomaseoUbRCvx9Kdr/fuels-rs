@@ -19,3 +19,5 @@ If the node supports historical execution (the node is using `rocksdb` and the `
 ```rust,ignore
 {{#include ../../../examples/contracts/src/lib.rs:simulate_read_state_at_height}}
 ```
+
+<!-- Auto-update: 2025-10-10T02:17:10.777245 -->
