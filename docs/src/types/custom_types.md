@@ -101,3 +101,5 @@ If your struct doesn't have any fields we'll also derive `Default`. As for enums
 ```rust,ignore
 {{#include ../../../examples/types/src/lib.rs:unused_generics_enum}}
 ```
+
+<!-- Auto-update: 2025-10-13T00:13:27.692506 -->
